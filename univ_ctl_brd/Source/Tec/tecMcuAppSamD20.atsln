@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "tecMcuAppSamD20", "tecMcuAppSamD20\tecMcuAppSamD20.cproj", "{A950843D-7245-4E43-ACBC-3FA2EE7FF7AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Release|ARM = Release|ARM
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A950843D-7245-4E43-ACBC-3FA2EE7FF7AD}.Debug|ARM.ActiveCfg = Debug|ARM
+		{A950843D-7245-4E43-ACBC-3FA2EE7FF7AD}.Debug|ARM.Build.0 = Debug|ARM
+		{A950843D-7245-4E43-ACBC-3FA2EE7FF7AD}.Release|ARM.ActiveCfg = Release|ARM
+		{A950843D-7245-4E43-ACBC-3FA2EE7FF7AD}.Release|ARM.Build.0 = Release|ARM
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
